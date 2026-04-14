@@ -19277,4 +19277,12 @@
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
   }
+  ,
+{
+  "id": "obsidian-local-tts",
+  "name": "Local TTS - Read Your Notes",
+  "author": "applefavorite",
+  "description": "High-quality offline text-to-speech powered by Kokoro-82M neural TTS. No API key, no cost, runs locally via WebAssembly.",
+  "repo": "applefavorite/obsidian-local-tts"
+}
 ]
